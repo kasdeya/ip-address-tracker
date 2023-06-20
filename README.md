@@ -9,7 +9,7 @@ This is a solution to the [IP Address Tracker App challenge on Frontend Mentor](
 ## Links
 
 - Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/vue-practice-fUHfNygQCH)
-- Live Site URL: [Live Solution](https://ip-address-tracker-po7j.vercel.app/)
+- Live Site URL: [Live Solution](https://ip-address-tracker-teal-alpha.vercel.app/)
 
 ## Built with
 
